@@ -16,7 +16,7 @@ Engineer with a strong sense of commitment.
 
 . 📄 Know about my experiences: https://www.linkedin.com/in/sameer-bambal
 
-. ⚡ Fun fact: My pals say I'm a witty guy.
+. ⚡ Fun fact: My pals say I'm a witty
 
 
 Connect with me:
