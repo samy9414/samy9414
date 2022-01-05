@@ -12,4 +12,4 @@ Engineer with a strong sense of commitment.
 Connect wit me: 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sameer-bambal/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samy9414)](https://github.com/anuraghazra/github-readme-stats)
+
