@@ -1,16 +1,14 @@
-### Hi there 👋
+												 Hi there 👋 I'm Sameer
 
-<!--
-**samy9414/samy9414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 											Engineer with a strong sense of commitment.
 
-Here are some ideas to get you started:
+.	🔭 I’m currently working on  developing few projects
+. 🌱 I’m currently enhancing my cloud computing skills (AWS,GCP) 
+.	👯 I’m looking to collaborate on projects involving data, ML and cloudOps
+. 📫 How to reach me:bambal.sameer@gmail.com
+. 📄 Know about my experiences: https://www.linkedin.com/in/sameer-bambal
+. ⚡ Fun fact: My pals say I'm a witty guy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Connect with me:
+
