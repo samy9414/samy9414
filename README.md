@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sameer</h1>
-<h3 align="center">Engineer with a strong sense of commitment.</h3>
+<h3 align="center">A engineer with a strong sense of commitment.</h3>
 
 - 🔭 I’m currently working on **developing various projects**
 
